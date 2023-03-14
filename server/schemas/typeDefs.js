@@ -8,7 +8,6 @@ const typeDefs = gql`
     bookCount: Int
     savedBooks: [Book]
   }
-  
   type Book {
     bookId: ID!
     authors: [String]
@@ -17,7 +16,7 @@ const typeDefs = gql`
     link: String
     title: String!
   }
-
+  
   type Auth {
     token: ID!
     user: User
