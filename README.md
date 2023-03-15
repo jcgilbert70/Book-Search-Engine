@@ -69,9 +69,9 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
    ## Screenshot
 
-  <img src="./assets/img/Screenshot1.PNG">
-  <img src="./assets/img/Screenshot2.PNG">
-  <img src="./assets/img/Screenshot3.PNG">
+  <img src="./assets/img/Screenshot1.PNG" width="300">
+  <img src="./assets/img/Screenshot2.PNG" width="300">
+  <img src="./assets/img/Screenshot3.PNG" width="300">
   
 
   ## Links
